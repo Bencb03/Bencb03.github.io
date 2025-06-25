@@ -1,0 +1,24 @@
+nav {
+  background-color: #333;
+  padding: 1em;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+  font-family: sans-serif;
+}
